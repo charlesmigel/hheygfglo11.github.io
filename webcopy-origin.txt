@@ -1,0 +1,92 @@
+Uri: https://cdn.jsdelivr.net/npm/vue3-sfc-loader/dist/vue3-sfc-loader.js
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\npm\vue3-sfc-loader\dist\vue3-sfc-loader.js
+Content Type: application/javascript
+
+Uri: https://cdn.tailwindcss.com/3.4.1
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\3.4.1
+Content Type: text/javascript
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/368x368/lrjxgfeha5jfczmw0ic.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\368x368\lrjxgfeha5jfczmw0ic.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/368x368/lrjxpvuxjcl5qberw0n.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\368x368\lrjxpvuxjcl5qberw0n.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/384x464/lrjxlatlikhbyxo9pii.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\384x464\lrjxlatlikhbyxo9pii.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/672x672/lrjwgy69lem5htfasz.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\672x672\lrjwgy69lem5htfasz.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/672x672/lrjwhqs8l9fm60cleth.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\672x672\lrjwhqs8l9fm60cleth.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/672x672/lrjwi81yftjy11074qu.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\672x672\lrjwi81yftjy11074qu.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/720x464/lrjxgfeha5jfczmw0ic.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\720x464\lrjxgfeha5jfczmw0ic.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/720x464/lrjxlatlikhbyxo9pii.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\720x464\lrjxlatlikhbyxo9pii.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/720x464/lrjxpvuxjcl5qberw0n.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\720x464\lrjxpvuxjcl5qberw0n.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/912x513/lrjxkb9g8mcmsvrfoie.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\912x513\lrjxkb9g8mcmsvrfoie.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/fit-in/1200x1200/lrjwd36zfq22phrpxuo.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\fit-in\1200x1200\lrjwd36zfq22phrpxuo.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/fit-in/128x128/lrjyv58p4vc1x6xjuxv.png
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\fit-in\128x128\lrjyv58p4vc1x6xjuxv.png
+Content Type: image/png
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/fit-in/1920x1080/lrjwd36zfq22phrpxuo.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\fit-in\1920x1080\lrjwd36zfq22phrpxuo.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/fit-in/222x240/lrjyvjhlcgrazkcn1st.png
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\fit-in\222x240\lrjyvjhlcgrazkcn1st.png
+Content Type: image/png
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/fit-in/576x576/lrjwd36zfq22phrpxuo.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\fit-in\576x576\lrjwd36zfq22phrpxuo.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/fit-in/768x768/lrjwd36zfq22phrpxuo.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\fit-in\768x768\lrjwd36zfq22phrpxuo.jpeg
+Content Type: image/jpeg
+
+Uri: https://df310046sxkes.cloudfront.net/uploads/fit-in/992x992/lrjwd36zfq22phrpxuo.jpeg
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\uploads\fit-in\992x992\lrjwd36zfq22phrpxuo.jpeg
+Content Type: image/jpeg
+
+Uri: https://eventzup2.sitesgpt.com/
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\index.htm
+Content Type: text/html
+
+Uri: https://eventzup2.sitesgpt.com/js/helpers.js
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\js\helpers.js
+Content Type: application/javascript
+
+Uri: https://eventzup2.sitesgpt.com/js/vue-app.js
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\js\vue-app.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/vue@3.4.15/dist/vue.global.js
+File Name: C:\Users\kali\Desktop\eventz.com2\eventzup2.sitesgpt.com\vue@3.4.15\dist\vue.global.js
+Content Type: application/javascript
+
